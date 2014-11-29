@@ -1,5 +1,7 @@
-scratch
+Scratch
 =======
 
-Scratch releases
-Add a second beta release tarball
+###Scratch releases
+
+* 2014-11-26 Beta 14 was release
+
