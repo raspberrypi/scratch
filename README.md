@@ -1,7 +1,7 @@
 Scratch
 =======
 
-###Scratch releases
+### Scratch releases
 
 * 2015-11-11 in NuScratch11112015.tgz
 * 2016-01-15 in NuScratch15012016.tgz
@@ -12,7 +12,7 @@ Scratch
 * 2016-09-15 inNuScratch20160915.tgz
 * 2016-10-21 in NuScratch20161021.tgz
 
-###Comparison Videos 
+### Comparison Videos 
 Showing performance changes over time for the Pi and a comparison with an i5 MacBook running 'original' Scratch.
 
 
